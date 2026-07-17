@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SlimeVR HID Receiver -->
+    <usb-device vendor-id="4617" product-id="30352" />
+
+    <!-- SlimeVR HID Tracker -->
+    <usb-device vendor-id="4617" product-id="30354" />
+</resources>
